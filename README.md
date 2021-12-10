@@ -1,4 +1,4 @@
-# Trabalho-Completo-Flexbox
+# Trabalho-Completo-Flexbox-ALURA
 
 Neste trabalho pude treinar e criar uma página com todos os posicionamentos em flexbox e também uma página responsiva para mobile.
 acesse o arquivo flexbox.css e veja como a página foi estruturada. 
